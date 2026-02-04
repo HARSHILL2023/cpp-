@@ -7,6 +7,5 @@ int main()
     cout <<"endl end statement and print next things in second line" <<endl ;
     cout << "second line chekcking spaces" <<endl ;
     cin >>a;
-    cout<< a;
-
+    cout<< a;   
 }
