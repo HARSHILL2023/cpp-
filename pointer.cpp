@@ -11,5 +11,5 @@ int main()
     cout << "ptr : "<<ptr<<endl;
     // cout << "ptr1 : "<<**ptr1<<endl;
 
-    cout<<"helloo guyys "
+    cout<<"helloo guyys "<<endl;
 }
