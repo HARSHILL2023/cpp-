@@ -25,6 +25,25 @@ int main()
     
     reverse(v.begin(), v.end());
 
+
+    
+    ofstream fout("Output.txt");
+
+    if (!fout)
+    {
+        cout << "Error opening file!" << endl;
+        return 1;
+    }
+
+    fout << "Vector elements after sorting and reversing:\n";
+    for (int num : v)
+    {
+        fout << num << " ";
+    }
+
+    fout.close();
+
+    cout << "Data successfully written to Output.txt" << endl;
     
 
     return 0;
