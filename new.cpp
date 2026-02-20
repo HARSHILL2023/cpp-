@@ -27,8 +27,9 @@
     auto itr1 = l1.begin();
     
     while(itr1 != l1.end()){
+         ++itr1;
         cout << "Forwarrd Iterator current value:  " << *itr1 << endl;
-        ++itr1;
+       
     }
     
     cout << "Set Element are beign printed one by one..." << endl;
