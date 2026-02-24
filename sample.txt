@@ -1,5 +1,0 @@
-First time using the file operation with the help of ofstream mmethod.
-First time using the file operation with the help of ofstream mmethod.
-First time using the file operation with the help of ofstream mmethod.
-First time using the file operation with the help of ofstream mmethod.
-"hello
