@@ -3,7 +3,7 @@ using namespace std;
 
 class Students
 {
-public:   // change private to public
+public: 
 
     string name;
     int age;
