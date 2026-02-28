@@ -1,0 +1,16 @@
+The actual operator is -> +
+The value of a: 10 and value of b: 20
+The result is: 30
+---------------------------
+The actual operator is -> -
+The value of a: 30 and value of b: 5
+The result is: 25
+---------------------------
+The actual operator is -> *
+The value of a: 4 and value of b: 6
+The result is: 24
+---------------------------
+The actual operator is -> /
+The value of a: 20 and value of b: 4
+The result is: 5
+---------------------------
